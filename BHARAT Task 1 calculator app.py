@@ -3,7 +3,6 @@
 
 # # Calculator App: Making a calculator with Addition , Subtraction , Multiplication and Deletion functionality of 2 numbers
 
-# In[2]:
 
 
 import tkinter as tk
@@ -75,7 +74,6 @@ result_label.grid(row=2, column=0, columnspan=4, padx=5, pady=5)
 window.mainloop()
 
 
-# In[ ]:
 
 
 
